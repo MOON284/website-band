@@ -10,6 +10,10 @@
     #header .mobile-menu-btn{
         display: block;
     }
+    #slider .text-content{
+        top: 10rem;
+        font-size: 13px;
+    }
     #nav > li{
         display: block;
     }
